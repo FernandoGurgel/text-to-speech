@@ -1,0 +1,24 @@
+{
+  "name": "text-to-speech",
+  "version": "0.0.1",
+  "description": "text-to-speech",
+  "main": "main.js",
+  "dependencies": {
+    "text-to-speech-js": "^1.1.9",
+    "say": "^0.15.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "node main.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/FernandoGurgel/text-to-speech.git"
+  },
+  "author": "Fernando Gurgel",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/FernandoGurgel/text-to-speech/issues"
+  },
+  "homepage": "https://github.com/FernandoGurgel/text-to-speech#readme"
+}
